@@ -56,9 +56,4 @@
 <div align="center">
 </div>
 
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:EvelinDionizio?theme=minecraft&padding=6&scale=0.4&align=top&pixelated=1&darkmode=auto"  />
-</div>
 
