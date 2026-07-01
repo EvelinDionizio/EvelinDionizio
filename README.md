@@ -9,7 +9,7 @@
 
 ## 🏗️ Arquitetura
 
-![Diagrama de Arquitetura](https://imgur.com/a/hkd8iWZ)
+![Diagrama de Arquitetura](https://imgur.com/a/hkd8iWZ.png)
 
 https://imgur.com/a/hkd8iWZ
 
