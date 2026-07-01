@@ -4,6 +4,7 @@
 </div>
 
 ###
+![Diagrama de Arquitetura](https://github.com/user-attachments/assets/72886041-8b4d-4313-97a5-0ef7ed71901c)
 
 ## 🏗️ Arquitetura
 
