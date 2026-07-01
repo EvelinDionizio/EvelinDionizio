@@ -5,6 +5,10 @@
 
 ###
 
+## 🏗️ Arquitetura
+
+![Diagrama de Arquitetura](https://drive.google.com/uc?export=view&id=1cEZoOEREAAH8gle1VU64iEG9mI3Ma0jO)
+
 <h1 align="center">Oie! 🐳​👋</h1>
 
 ###
